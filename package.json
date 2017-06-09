@@ -16,5 +16,8 @@
     "json"
   ],
   "author": "Diana Vazquez",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
